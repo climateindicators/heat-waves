@@ -1,0 +1,100 @@
+indicator:
+  name: Heat Waves
+  slug: heat-waves
+  publisher: U.S. Environmental Protection Agency
+  source_page: https://19january2025snapshot.epa.gov/climate-indicators/climate-change-indicators-heat-waves/index.html
+  technical_documentation: https://19january2025snapshot.epa.gov/system/files/documents/2024-06/heat-waves_documentation.pdf
+  rights: Public domain, work of the U.S. Government (17 U.S.C. 105)
+datasets:
+- file: heat_wave_characteristics_by_decade.csv
+  figure: Figure 1
+  figure_title: Figure 1. Heat Wave Characteristics in the United States by Decade,
+    1961–2023
+  source_file: heat_waves_fig-1.csv
+  source_sha256: 17dccf1b23121a62ef98fffbb08509acc0df13aa60f08bd2ea4dfe4f6655f173
+  source_encoding: windows-1252
+  data_source: NOAA, 2024
+  web_update: June 2024
+  unit: varies by series; see the `unit` column
+  rows: 28
+  columns:
+  - name: decade
+    type: string
+    description: Decade label as published, e.g. "1960s"
+  - name: decade_start
+    type: integer
+    description: First year of the decade, for ordering and axis breaks
+  - name: series_key
+    type: string
+    description: 'Machine-readable series identifier: frequency, duration, season,
+      or intensity'
+  - name: series_label
+    type: string
+    description: Display label, as used in EPA's published chart legend
+  - name: unit
+    type: string
+    description: Unit of `value`; this file mixes a count, two day counts, and degrees
+      Fahrenheit, so `unit` varies by row
+  - name: value
+    type: number
+    description: Decade average for the series named in `series_key`, verbatim from
+      the source file
+- file: heat_wave_characteristics_by_city.csv
+  figure: Figure 2
+  figure_title: Figure 2. Heat Wave Characteristics in 50 Large U.S. Cities, 1961–2023
+  source_file: heat_waves_fig-2.csv
+  source_sha256: f9bb568ccda2a2bea2755b885af190d4e4d6432be69c06c74948aa2e8070fa43
+  source_encoding: windows-1252
+  data_source: NOAA, 2024
+  web_update: June 2024
+  unit: varies by series; see the `unit` column
+  rows: 200
+  columns:
+  - name: station
+    type: string
+    description: EPA's station code, city name and state abbreviation joined by underscores,
+      e.g. "ALBANY_NY"
+  - name: city
+    type: string
+    description: City name, derived from `station`
+  - name: state
+    type: string
+    description: Two-letter state abbreviation, derived from `station`
+  - name: latitude
+    type: number
+    description: Station latitude in decimal degrees north
+  - name: longitude
+    type: number
+    description: Station longitude in decimal degrees east (negative is west)
+  - name: series_key
+    type: string
+    description: 'Machine-readable series identifier: frequency, duration, season,
+      or intensity'
+  - name: series_label
+    type: string
+    description: Display label, as used in EPA's published chart legend
+  - name: unit
+    type: string
+    description: Unit of `value`; this file mixes a count, two day counts, and degrees
+      Fahrenheit, so `unit` varies by row
+  - name: value
+    type: number
+    description: Change from 1961 to 2023 in the series named in `series_key`, verbatim
+      from the source file
+- file: heat_wave_index_annual.csv
+  figure: Figure 3
+  figure_title: Figure 3. U.S. Annual Heat Wave Index, 1895–2021
+  source_file: heat_waves_fig-3.csv
+  source_sha256: f4ce28f7516d97d9ee2e118fd132db13971734e193aac981b91fa7b029f826bb
+  source_encoding: windows-1252
+  data_source: Kunkel, 2022
+  web_update: July 2022
+  unit: heat wave index
+  rows: 127
+  columns:
+  - name: year
+    type: integer
+    description: Calendar year
+  - name: value
+    type: number
+    description: U.S. Annual Heat Wave Index, verbatim from the source file

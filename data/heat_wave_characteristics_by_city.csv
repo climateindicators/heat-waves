@@ -1,0 +1,201 @@
+station,city,state,latitude,longitude,series_key,series_label,unit,value
+ALBANY_NY,Albany,NY,42.75,-73.8,frequency,Frequency,heat waves,3.273809524
+ALBANY_NY,Albany,NY,42.75,-73.8,duration,Duration,days,1.088532347
+ALBANY_NY,Albany,NY,42.75,-73.8,season,Season length,days,36.13392857
+ALBANY_NY,Albany,NY,42.75,-73.8,intensity,Intensity,°F,0.439305895
+ALBUQUERQUE_NM,Albuquerque,NM,35.05,-106.62,frequency,Frequency,heat waves,4.330357143
+ALBUQUERQUE_NM,Albuquerque,NM,35.05,-106.62,duration,Duration,days,1.403801312
+ALBUQUERQUE_NM,Albuquerque,NM,35.05,-106.62,season,Season length,days,40.52380952
+ALBUQUERQUE_NM,Albuquerque,NM,35.05,-106.62,intensity,Intensity,°F,0.328336649
+ATLANTA_GA,Atlanta,GA,33.65,-84.43,frequency,Frequency,heat waves,6.630952381
+ATLANTA_GA,Atlanta,GA,33.65,-84.43,duration,Duration,days,2.12006686
+ATLANTA_GA,Atlanta,GA,33.65,-84.43,season,Season length,days,84.21428571
+ATLANTA_GA,Atlanta,GA,33.65,-84.43,intensity,Intensity,°F,0.424416142
+AUSTIN_TX,Austin,TX,30.3,-97.7,frequency,Frequency,heat waves,7.136904762
+AUSTIN_TX,Austin,TX,30.3,-97.7,duration,Duration,days,1.951731013
+AUSTIN_TX,Austin,TX,30.3,-97.7,season,Season length,days,62.12202381
+AUSTIN_TX,Austin,TX,30.3,-97.7,intensity,Intensity,°F,0.502612252
+BALTIMORE_MD,Baltimore,MD,39.18,-76.67,frequency,Frequency,heat waves,4.139880952
+BALTIMORE_MD,Baltimore,MD,39.18,-76.67,duration,Duration,days,0.928101359
+BALTIMORE_MD,Baltimore,MD,39.18,-76.67,season,Season length,days,48.00595238
+BALTIMORE_MD,Baltimore,MD,39.18,-76.67,intensity,Intensity,°F,0.615813166
+BATON_ROUGE_LA,Baton Rouge,LA,30.53,-91.15,frequency,Frequency,heat waves,4.244047619
+BATON_ROUGE_LA,Baton Rouge,LA,30.53,-91.15,duration,Duration,days,1.661395103
+BATON_ROUGE_LA,Baton Rouge,LA,30.53,-91.15,season,Season length,days,53.8422619
+BATON_ROUGE_LA,Baton Rouge,LA,30.53,-91.15,intensity,Intensity,°F,0.399988798
+BIRMINGHAM_AL,Birmingham,AL,33.57,-86.75,frequency,Frequency,heat waves,5.699404762
+BIRMINGHAM_AL,Birmingham,AL,33.57,-86.75,duration,Duration,days,2.505685157
+BIRMINGHAM_AL,Birmingham,AL,33.57,-86.75,season,Season length,days,66.19345238
+BIRMINGHAM_AL,Birmingham,AL,33.57,-86.75,intensity,Intensity,°F,0.530682769
+BOSTON_MA,Boston,MA,42.37,-71.03,frequency,Frequency,heat waves,1.928571429
+BOSTON_MA,Boston,MA,42.37,-71.03,duration,Duration,days,0.673492286
+BOSTON_MA,Boston,MA,42.37,-71.03,season,Season length,days,28.92559524
+BOSTON_MA,Boston,MA,42.37,-71.03,intensity,Intensity,°F,1.287163981
+BUFFALO_NY,Buffalo,NY,42.93,-78.73,frequency,Frequency,heat waves,2.318452381
+BUFFALO_NY,Buffalo,NY,42.93,-78.73,duration,Duration,days,0.537077972
+BUFFALO_NY,Buffalo,NY,42.93,-78.73,season,Season length,days,20.66964286
+BUFFALO_NY,Buffalo,NY,42.93,-78.73,intensity,Intensity,°F,0.301606088
+CHARLOTTE_NC,Charlotte,NC,35.22,-80.93,frequency,Frequency,heat waves,3.488095238
+CHARLOTTE_NC,Charlotte,NC,35.22,-80.93,duration,Duration,days,1.454103727
+CHARLOTTE_NC,Charlotte,NC,35.22,-80.93,season,Season length,days,44.66666667
+CHARLOTTE_NC,Charlotte,NC,35.22,-80.93,intensity,Intensity,°F,0.394115954
+CHICAGO_IL,Chicago,IL,41.78,-87.75,frequency,Frequency,heat waves,3.205357143
+CHICAGO_IL,Chicago,IL,41.78,-87.75,duration,Duration,days,-0.023347265
+CHICAGO_IL,Chicago,IL,41.78,-87.75,season,Season length,days,47.23511905
+CHICAGO_IL,Chicago,IL,41.78,-87.75,intensity,Intensity,°F,-0.277479424
+CLEVELAND_OH,Cleveland,OH,41.4,-81.85,frequency,Frequency,heat waves,4.976190476
+CLEVELAND_OH,Cleveland,OH,41.4,-81.85,duration,Duration,days,0.608351093
+CLEVELAND_OH,Cleveland,OH,41.4,-81.85,season,Season length,days,50.47321429
+CLEVELAND_OH,Cleveland,OH,41.4,-81.85,intensity,Intensity,°F,0.86306253
+COLUMBUS_OH,Columbus,OH,40,-82.88,frequency,Frequency,heat waves,3.330357143
+COLUMBUS_OH,Columbus,OH,40,-82.88,duration,Duration,days,0.753065538
+COLUMBUS_OH,Columbus,OH,40,-82.88,season,Season length,days,43.06845238
+COLUMBUS_OH,Columbus,OH,40,-82.88,intensity,Intensity,°F,0.917539426
+COVINGTON_KY,Covington,KY,39.07,-84.67,frequency,Frequency,heat waves,2.639880952
+COVINGTON_KY,Covington,KY,39.07,-84.67,duration,Duration,days,0.36646321
+COVINGTON_KY,Covington,KY,39.07,-84.67,season,Season length,days,24.13095238
+COVINGTON_KY,Covington,KY,39.07,-84.67,intensity,Intensity,°F,0.174572408
+DETROIT_MI,Detroit,MI,42.42,-83.02,frequency,Frequency,heat waves,5.294642857
+DETROIT_MI,Detroit,MI,42.42,-83.02,duration,Duration,days,1.11258596
+DETROIT_MI,Detroit,MI,42.42,-83.02,season,Season length,days,52.00892857
+DETROIT_MI,Detroit,MI,42.42,-83.02,intensity,Intensity,°F,0.857450746
+FORT_WORTH_TX,Fort Worth,TX,32.83,-97.05,frequency,Frequency,heat waves,5.267857143
+FORT_WORTH_TX,Fort Worth,TX,32.83,-97.05,duration,Duration,days,3.969287075
+FORT_WORTH_TX,Fort Worth,TX,32.83,-97.05,season,Season length,days,57.98214286
+FORT_WORTH_TX,Fort Worth,TX,32.83,-97.05,intensity,Intensity,°F,0.714535086
+FRESNO_CA,Fresno,CA,36.77,-119.72,frequency,Frequency,heat waves,4.613095238
+FRESNO_CA,Fresno,CA,36.77,-119.72,duration,Duration,days,2.329724914
+FRESNO_CA,Fresno,CA,36.77,-119.72,season,Season length,days,69.62202381
+FRESNO_CA,Fresno,CA,36.77,-119.72,intensity,Intensity,°F,0.836220424
+HARTFORD_CT,Hartford,CT,41.93,-72.68,frequency,Frequency,heat waves,1.645833333
+HARTFORD_CT,Hartford,CT,41.93,-72.68,duration,Duration,days,0.497126179
+HARTFORD_CT,Hartford,CT,41.93,-72.68,season,Season length,days,28.13690476
+HARTFORD_CT,Hartford,CT,41.93,-72.68,intensity,Intensity,°F,0.532851296
+HONOLULU_HI,Honolulu,HI,21.33,-157.92,frequency,Frequency,heat waves,6.154761905
+HONOLULU_HI,Honolulu,HI,21.33,-157.92,duration,Duration,days,1.670744636
+HONOLULU_HI,Honolulu,HI,21.33,-157.92,season,Season length,days,60.99702381
+HONOLULU_HI,Honolulu,HI,21.33,-157.92,intensity,Intensity,°F,0.339360985
+INDIANAPOLIS_IN,Indianapolis,IN,39.73,-86.28,frequency,Frequency,heat waves,1.735119048
+INDIANAPOLIS_IN,Indianapolis,IN,39.73,-86.28,duration,Duration,days,0.822551248
+INDIANAPOLIS_IN,Indianapolis,IN,39.73,-86.28,season,Season length,days,23.46428571
+INDIANAPOLIS_IN,Indianapolis,IN,39.73,-86.28,intensity,Intensity,°F,0.206516566
+JACKSONVILLE_FL,Jacksonville,FL,30.5,-81.7,frequency,Frequency,heat waves,1.089285714
+JACKSONVILLE_FL,Jacksonville,FL,30.5,-81.7,duration,Duration,days,0.307474914
+JACKSONVILLE_FL,Jacksonville,FL,30.5,-81.7,season,Season length,days,18.29166667
+JACKSONVILLE_FL,Jacksonville,FL,30.5,-81.7,intensity,Intensity,°F,-0.138935499
+KNOXVILLE_TN,Knoxville,TN,35.82,-83.98,frequency,Frequency,heat waves,3.761904762
+KNOXVILLE_TN,Knoxville,TN,35.82,-83.98,duration,Duration,days,0.667392963
+KNOXVILLE_TN,Knoxville,TN,35.82,-83.98,season,Season length,days,50.35416667
+KNOXVILLE_TN,Knoxville,TN,35.82,-83.98,intensity,Intensity,°F,0.348695957
+LAS_VEGAS_NV,Las Vegas,NV,36.08,-115.17,frequency,Frequency,heat waves,5.898809524
+LAS_VEGAS_NV,Las Vegas,NV,36.08,-115.17,duration,Duration,days,3.271960073
+LAS_VEGAS_NV,Las Vegas,NV,36.08,-115.17,season,Season length,days,64.46428571
+LAS_VEGAS_NV,Las Vegas,NV,36.08,-115.17,intensity,Intensity,°F,1.098645287
+LOS_ANGELES_CA,Los Angeles,CA,33.93,-118.4,frequency,Frequency,heat waves,1.544642857
+LOS_ANGELES_CA,Los Angeles,CA,33.93,-118.4,duration,Duration,days,2.227424243
+LOS_ANGELES_CA,Los Angeles,CA,33.93,-118.4,season,Season length,days,31.81845238
+LOS_ANGELES_CA,Los Angeles,CA,33.93,-118.4,intensity,Intensity,°F,0.430577968
+LOUISVILLE_KY,Louisville,KY,38.18,-85.73,frequency,Frequency,heat waves,5.175595238
+LOUISVILLE_KY,Louisville,KY,38.18,-85.73,duration,Duration,days,0.736470109
+LOUISVILLE_KY,Louisville,KY,38.18,-85.73,season,Season length,days,49.29166667
+LOUISVILLE_KY,Louisville,KY,38.18,-85.73,intensity,Intensity,°F,0.407243726
+MEMPHIS_TN,Memphis,TN,35.05,-89.98,frequency,Frequency,heat waves,2.758928571
+MEMPHIS_TN,Memphis,TN,35.05,-89.98,duration,Duration,days,-0.749159192
+MEMPHIS_TN,Memphis,TN,35.05,-89.98,season,Season length,days,25.10714286
+MEMPHIS_TN,Memphis,TN,35.05,-89.98,intensity,Intensity,°F,-0.052069993
+MIAMI_FL,Miami,FL,25.8,-80.27,frequency,Frequency,heat waves,9.678571429
+MIAMI_FL,Miami,FL,25.8,-80.27,duration,Duration,days,1.491915764
+MIAMI_FL,Miami,FL,25.8,-80.27,season,Season length,days,89.69047619
+MIAMI_FL,Miami,FL,25.8,-80.27,intensity,Intensity,°F,0.412915453
+MILWAUKEE_WI,Milwaukee,WI,42.95,-87.9,frequency,Frequency,heat waves,4.395833333
+MILWAUKEE_WI,Milwaukee,WI,42.95,-87.9,duration,Duration,days,0.259516449
+MILWAUKEE_WI,Milwaukee,WI,42.95,-87.9,season,Season length,days,54.31845238
+MILWAUKEE_WI,Milwaukee,WI,42.95,-87.9,intensity,Intensity,°F,0.818217461
+NASHVILLE_TN,Nashville,TN,36.12,-86.68,frequency,Frequency,heat waves,3.318452381
+NASHVILLE_TN,Nashville,TN,36.12,-86.68,duration,Duration,days,0.754838367
+NASHVILLE_TN,Nashville,TN,36.12,-86.68,season,Season length,days,39.69940476
+NASHVILLE_TN,Nashville,TN,36.12,-86.68,intensity,Intensity,°F,0.38087445
+NEW_ORLEANS_LA,New Orleans,LA,29.98,-90.25,frequency,Frequency,heat waves,9.056547619
+NEW_ORLEANS_LA,New Orleans,LA,29.98,-90.25,duration,Duration,days,4.502139069
+NEW_ORLEANS_LA,New Orleans,LA,29.98,-90.25,season,Season length,days,101.3988095
+NEW_ORLEANS_LA,New Orleans,LA,29.98,-90.25,intensity,Intensity,°F,0.744681581
+NORFOLK_VA,Norfolk,VA,36.9,-76.2,frequency,Frequency,heat waves,5.81547619
+NORFOLK_VA,Norfolk,VA,36.9,-76.2,duration,Duration,days,2.08602065
+NORFOLK_VA,Norfolk,VA,36.9,-76.2,season,Season length,days,73.53571429
+NORFOLK_VA,Norfolk,VA,36.9,-76.2,intensity,Intensity,°F,0.347187141
+OKLAHOMA_CITY_OK,Oklahoma City,OK,35.4,-97.6,frequency,Frequency,heat waves,2.166666667
+OKLAHOMA_CITY_OK,Oklahoma City,OK,35.4,-97.6,duration,Duration,days,0.142519247
+OKLAHOMA_CITY_OK,Oklahoma City,OK,35.4,-97.6,season,Season length,days,24.32440476
+OKLAHOMA_CITY_OK,Oklahoma City,OK,35.4,-97.6,intensity,Intensity,°F,0.69288266
+PHILADELPHIA_PA,Philadelphia,PA,39.88,-75.25,frequency,Frequency,heat waves,4.37797619
+PHILADELPHIA_PA,Philadelphia,PA,39.88,-75.25,duration,Duration,days,1.953205936
+PHILADELPHIA_PA,Philadelphia,PA,39.88,-75.25,season,Season length,days,53.17261905
+PHILADELPHIA_PA,Philadelphia,PA,39.88,-75.25,intensity,Intensity,°F,1.567637088
+PHOENIX_AZ,Phoenix,AZ,33.43,-112.02,frequency,Frequency,heat waves,5.669642857
+PHOENIX_AZ,Phoenix,AZ,33.43,-112.02,duration,Duration,days,2.097285193
+PHOENIX_AZ,Phoenix,AZ,33.43,-112.02,season,Season length,days,61.22619048
+PHOENIX_AZ,Phoenix,AZ,33.43,-112.02,intensity,Intensity,°F,1.15322871
+PITTSBURGH_PA,Pittsburgh,PA,40.5,-80.22,frequency,Frequency,heat waves,3.913690476
+PITTSBURGH_PA,Pittsburgh,PA,40.5,-80.22,duration,Duration,days,0.986964
+PITTSBURGH_PA,Pittsburgh,PA,40.5,-80.22,season,Season length,days,56.69642857
+PITTSBURGH_PA,Pittsburgh,PA,40.5,-80.22,intensity,Intensity,°F,1.284351642
+PORTLAND_OR,Portland,OR,45.6,-122.6,frequency,Frequency,heat waves,5.55952381
+PORTLAND_OR,Portland,OR,45.6,-122.6,duration,Duration,days,1.519846037
+PORTLAND_OR,Portland,OR,45.6,-122.6,season,Season length,days,64.35119048
+PORTLAND_OR,Portland,OR,45.6,-122.6,intensity,Intensity,°F,0.681218051
+PROVIDENCE_RI,Providence,RI,41.73,-71.43,frequency,Frequency,heat waves,2.616071429
+PROVIDENCE_RI,Providence,RI,41.73,-71.43,duration,Duration,days,0.765567717
+PROVIDENCE_RI,Providence,RI,41.73,-71.43,season,Season length,days,31.83928571
+PROVIDENCE_RI,Providence,RI,41.73,-71.43,intensity,Intensity,°F,0.471825112
+RALEIGH_NC,Raleigh,NC,35.87,-78.78,frequency,Frequency,heat waves,5.398809524
+RALEIGH_NC,Raleigh,NC,35.87,-78.78,duration,Duration,days,2.050395925
+RALEIGH_NC,Raleigh,NC,35.87,-78.78,season,Season length,days,64.07440476
+RALEIGH_NC,Raleigh,NC,35.87,-78.78,intensity,Intensity,°F,0.93605067
+RICHMOND_VA,Richmond,VA,37.5,-77.33,frequency,Frequency,heat waves,4.136904762
+RICHMOND_VA,Richmond,VA,37.5,-77.33,duration,Duration,days,0.842337518
+RICHMOND_VA,Richmond,VA,37.5,-77.33,season,Season length,days,55.74107143
+RICHMOND_VA,Richmond,VA,37.5,-77.33,intensity,Intensity,°F,0.73959823
+ROCHESTER_NY,Rochester,NY,43.12,-77.67,frequency,Frequency,heat waves,0.892857143
+ROCHESTER_NY,Rochester,NY,43.12,-77.67,duration,Duration,days,-0.354980993
+ROCHESTER_NY,Rochester,NY,43.12,-77.67,season,Season length,days,9.919642857
+ROCHESTER_NY,Rochester,NY,43.12,-77.67,intensity,Intensity,°F,-0.185487326
+SALT_LAKE_CITY_UT,Salt Lake City,UT,40.77,-111.97,frequency,Frequency,heat waves,5.255952381
+SALT_LAKE_CITY_UT,Salt Lake City,UT,40.77,-111.97,duration,Duration,days,3.719483418
+SALT_LAKE_CITY_UT,Salt Lake City,UT,40.77,-111.97,season,Season length,days,52.36309524
+SALT_LAKE_CITY_UT,Salt Lake City,UT,40.77,-111.97,intensity,Intensity,°F,1.365245777
+SAN_ANTONIO_TX,San Antonio,TX,29.53,-98.47,frequency,Frequency,heat waves,5.925595238
+SAN_ANTONIO_TX,San Antonio,TX,29.53,-98.47,duration,Duration,days,1.645857859
+SAN_ANTONIO_TX,San Antonio,TX,29.53,-98.47,season,Season length,days,53.01785714
+SAN_ANTONIO_TX,San Antonio,TX,29.53,-98.47,intensity,Intensity,°F,0.113984805
+SAN_DIEGO_CA,San Diego,CA,32.73,-117.17,frequency,Frequency,heat waves,1.294642857
+SAN_DIEGO_CA,San Diego,CA,32.73,-117.17,duration,Duration,days,-0.107858319
+SAN_DIEGO_CA,San Diego,CA,32.73,-117.17,season,Season length,days,11.39285714
+SAN_DIEGO_CA,San Diego,CA,32.73,-117.17,intensity,Intensity,°F,0.336918121
+SAN_FRANCISCO_CA,San Francisco,CA,37.62,-122.38,frequency,Frequency,heat waves,7.580357143
+SAN_FRANCISCO_CA,San Francisco,CA,37.62,-122.38,duration,Duration,days,2.963910031
+SAN_FRANCISCO_CA,San Francisco,CA,37.62,-122.38,season,Season length,days,109.7797619
+SAN_FRANCISCO_CA,San Francisco,CA,37.62,-122.38,intensity,Intensity,°F,0.238115501
+SAN_JUAN_PR,San Juan,PR,18.43,-66,frequency,Frequency,heat waves,15.01488095
+SAN_JUAN_PR,San Juan,PR,18.43,-66,duration,Duration,days,1.876933026
+SAN_JUAN_PR,San Juan,PR,18.43,-66,season,Season length,days,139.7291667
+SAN_JUAN_PR,San Juan,PR,18.43,-66,intensity,Intensity,°F,0.402769883
+SEATTLE_WA,Seattle,WA,47.45,-122.3,frequency,Frequency,heat waves,4.711309524
+SEATTLE_WA,Seattle,WA,47.45,-122.3,duration,Duration,days,2.14282329
+SEATTLE_WA,Seattle,WA,47.45,-122.3,season,Season length,days,56.58035714
+SEATTLE_WA,Seattle,WA,47.45,-122.3,intensity,Intensity,°F,0.345452483
+ST_LOUIS_MO,St Louis,MO,38.75,-90.38,frequency,Frequency,heat waves,3.708333333
+ST_LOUIS_MO,St Louis,MO,38.75,-90.38,duration,Duration,days,-0.458745804
+ST_LOUIS_MO,St Louis,MO,38.75,-90.38,season,Season length,days,50.31845238
+ST_LOUIS_MO,St Louis,MO,38.75,-90.38,intensity,Intensity,°F,1.149779323
+TAMPA_FL,Tampa,FL,27.97,-82.53,frequency,Frequency,heat waves,10.36904762
+TAMPA_FL,Tampa,FL,27.97,-82.53,duration,Duration,days,2.447754433
+TAMPA_FL,Tampa,FL,27.97,-82.53,season,Season length,days,96.58035714
+TAMPA_FL,Tampa,FL,27.97,-82.53,intensity,Intensity,°F,0.617886904
+TUCSON_AZ,Tucson,AZ,32.12,-110.93,frequency,Frequency,heat waves,5.803571429
+TUCSON_AZ,Tucson,AZ,32.12,-110.93,duration,Duration,days,1.870744519
+TUCSON_AZ,Tucson,AZ,32.12,-110.93,season,Season length,days,51.88690476
+TUCSON_AZ,Tucson,AZ,32.12,-110.93,intensity,Intensity,°F,0.594939015
+TULSA_OK,Tulsa,OK,36.2,-95.9,frequency,Frequency,heat waves,3.788690476
+TULSA_OK,Tulsa,OK,36.2,-95.9,duration,Duration,days,0.945343126
+TULSA_OK,Tulsa,OK,36.2,-95.9,season,Season length,days,51.9077381
+TULSA_OK,Tulsa,OK,36.2,-95.9,intensity,Intensity,°F,0.853401462

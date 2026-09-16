@@ -1,0 +1,29 @@
+decade,decade_start,series_key,series_label,unit,value
+1960s,1960,frequency,Frequency,heat waves,2.172
+1960s,1960,duration,Duration,days,3.003418011
+1960s,1960,season,Season length,days,23.75
+1960s,1960,intensity,Intensity,°F,1.949738461
+1970s,1970,frequency,Frequency,heat waves,2.842
+1970s,1970,duration,Duration,days,3.206547621
+1970s,1970,season,Season length,days,33.97
+1970s,1970,intensity,Intensity,°F,2.063235741
+1980s,1980,frequency,Frequency,heat waves,3.216
+1980s,1980,duration,Duration,days,3.299759905
+1980s,1980,season,Season length,days,38.81
+1980s,1980,intensity,Intensity,°F,2.15335974
+1990s,1990,frequency,Frequency,heat waves,3.956
+1990s,1990,duration,Duration,days,3.466630768
+1990s,1990,season,Season length,days,47.512
+1990s,1990,intensity,Intensity,°F,2.250609587
+2000s,2000,frequency,Frequency,heat waves,4.668
+2000s,2000,duration,Duration,days,3.654335637
+2000s,2000,season,Season length,days,53.498
+2000s,2000,intensity,Intensity,°F,2.297838071
+2010s,2010,frequency,Frequency,heat waves,5.964
+2010s,2010,duration,Duration,days,4.044645038
+2010s,2010,season,Season length,days,68.518
+2010s,2010,intensity,Intensity,°F,2.36048015
+2020s,2020,frequency,Frequency,heat waves,6.293333333
+2020s,2020,duration,Duration,days,4.302357934
+2020s,2020,season,Season length,days,69.94
+2020s,2020,intensity,Intensity,°F,2.534534896
